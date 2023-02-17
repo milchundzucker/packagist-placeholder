@@ -1,0 +1,13 @@
+{
+    "name": "muz/placeholder",
+    "description": "A placeholder package to reserve the 'muz' vendor prefix.",
+    "authors": [
+        {
+            "name": "milch & zucker Open Source",
+            "email": "info@milchundzucker.de",
+	    "homepage": "https://www.milchundzucker.de/"
+        }
+    ],
+    "license": "proprietary",
+    "require": {}
+}
